@@ -143,7 +143,9 @@ These metrics provide a comprehensive assessment of detection accuracy and robus
 
 A detailed project report containing system design, implementation details, experimental setup, and evaluation results is available in:
 
-[📄 View Project Report](Report.pdf)
+```text
+Report.pdf
+```
 
 ---
 
