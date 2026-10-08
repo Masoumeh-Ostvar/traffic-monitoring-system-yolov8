@@ -139,16 +139,14 @@ These metrics provide a comprehensive assessment of detection accuracy and robus
 
 ---
 
-## Documentation
+## Project Goal
 
-A detailed project report containing system design, implementation details, experimental setup, and evaluation results is available in:
+The primary goal of this project is to investigate the effectiveness of **YOLOv8** for intelligent traffic monitoring and vehicle analysis tasks, while exploring preprocessing strategies that improve detection performance in real-world scenarios.
+
+---
+
+## Documentation
 
 ```text
 Report.pdf
 ```
-
----
-
-## Project Goal
-
-The primary goal of this project is to investigate the effectiveness of **YOLOv8** for intelligent traffic monitoring and vehicle analysis tasks, while exploring preprocessing strategies that improve detection performance in real-world scenarios.
