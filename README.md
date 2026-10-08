@@ -147,6 +147,8 @@ The primary goal of this project is to investigate the effectiveness of **YOLOv8
 
 ## Documentation
 
+A brief project report describing the implementation process, model training, and inference workflow is available in:
+
 ```text
 Report.pdf
 ```
