@@ -152,3 +152,6 @@ A brief project report describing the implementation process, model training, an
 ```text
 Report.pdf
 ```
+Due to GitHub's file size limitations, the complete project files are available on Google Drive:
+
+https://drive.google.com/file/d/1AocT9YNdN3kr01MPkn7gSYbtzKmGAQkZ/view?usp=sharing
